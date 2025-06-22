@@ -1,5 +1,3 @@
-# Encrypted by K-fuscator
-# Github- https://github.com/KasRoudra/k-fuscator
 
 VenomRushVenomRush = ""
 VenomRushVenomRush += "\x49\x79\x45\x76\x64\x58\x4e\x79\x4c\x32"
