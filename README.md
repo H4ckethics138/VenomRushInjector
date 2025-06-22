@@ -9,7 +9,7 @@ VenomRushInjector is an advanced, terminal-based multi-platform payload builder 
 
 
 # 🎭VenomRushInjector v1.0
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=neuropol&weight=800&size=25&duration=4000&pause=500&color=D1147A&center=true&vCenter=true&width=435&lines=Venom-IS-multi-platform+Payload;Generator;+TEAM-Hackethics138)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=neuropol&weight=800&size=25&duration=4000&pause=500&color=D1147A&center=true&vCenter=true&width=435&lines=that_tool-IS-multi-platform+Payload;Generator;+TEAM-Hackethics138)
 
 ![ VenomRushInjectorBanner](https://github.com/H4ckethics138/VenomRushInjector/blob/main/VenomRush_injector.png)
 
