@@ -8,7 +8,7 @@ VenomRushInjector is an advanced, terminal-based multi-platform payload builder 
 #              ☠️ *Inject. Obliterate. Persist.* ☠️
 
 
-# 🎭VenomRushInjector v1.0
+# 🎭VenomRushInjector v0.1
 
 ![ VenomRushInjectorBanner](https://github.com/H4ckethics138/VenomRushInjector/blob/main/VenomRush_injector.png)
 
